@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @igee-17
+- 👀 I’m interested in Front End development
+- 🌱 I’m currently learning React.js
+- 📫 How to reach me (Whatsapp- +2347061196917)
