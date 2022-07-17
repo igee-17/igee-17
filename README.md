@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Igbagbo Olaleye
-- 👀 I’m interested in Frontend development
+- 👀 I’m a Frontend Developer
 
 
