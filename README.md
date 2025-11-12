@@ -123,7 +123,6 @@ Currently building microservices and real-time systems at **UnifiedBeez (London)
 - 🔭 Building microservices at **UnifiedBeez** (London) and frontend at **Vapzer LLC** (California)
 - 🌱 Deep diving into **RAG systems** and **vector databases**
 - 💼 Open to opportunities in **UK, EU, UAE, and remote roles**
-- 🎯 Seeking **visa sponsorship** for relocation
 
 ---
 
