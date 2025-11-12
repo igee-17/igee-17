@@ -18,6 +18,7 @@ Currently building microservices and real-time systems at **UnifiedBeez (London)
 - Developed event management system with seamless API integration
 - Implemented responsive, mobile-first design for fitness tracking features
 
+![Urunner Dashboard](./assets/urunner.png)
 🔗 [Live Site](https://www.urunner.io)
 
 ---
