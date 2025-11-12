@@ -133,8 +133,8 @@ Currently building microservices and real-time systems at **UnifiedBeez (London)
 ## 📫 Let's Connect
 
 - **Email:** igbagboleye@gmail.com
-- **LinkedIn:** [your-linkedin-url]
-- **Location:** Abuja, Nigeria (Open to relocation)
+- **LinkedIn:** [https://www.linkedin.com/in/igbagbo-olaleye]
+- **Location:** Abuja, Nigeria
 - **Phone:** +234 706 119 6917
 
 ---
