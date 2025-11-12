@@ -35,6 +35,20 @@ Currently building microservices and real-time systems at **UnifiedBeez (London)
 
 ---
 
+### [NowTalkToMe](https://www.nowtalktome.com) | Real-Time Chat Platform
+**Tech Stack:** NestJs • TypeScript • Socket.io • MySQL • React • Stripe
+
+- Led 6-person team building encrypted chat platform with **1K+ concurrent sessions**
+- Built admin dashboard with live monitoring and dynamic staff assignment
+- Integrated Stripe payment processing (**$50K+ monthly transactions**)
+- Implemented WebSocket microservices with automated load balancing
+
+
+![Vapzer Dashboard](./assets/nowtalktome-screenshot.png)
+🔗 [Live Platform](https://www.nowtalktome.com)
+
+---
+
 ### [EchoNota](https://echonota.vercel.app/) | Podcast Transcription Platform
 **Tech Stack:** Next.js • TypeScript • Audio Processing
 
@@ -54,18 +68,6 @@ Currently building microservices and real-time systems at **UnifiedBeez (London)
 - Designed responsive interface for financial data presentation
 
 🔗 [Live Demo](https://visualtrade.vercel.app/)
-
----
-
-### [NowTalkToMe](https://www.nowtalktome.com) | Real-Time Chat Platform
-**Tech Stack:** NestJs • TypeScript • Socket.io • MySQL • React • Stripe
-
-- Led 6-person team building encrypted chat platform with **1K+ concurrent sessions**
-- Built admin dashboard with live monitoring and dynamic staff assignment
-- Integrated Stripe payment processing (**$50K+ monthly transactions**)
-- Implemented WebSocket microservices with automated load balancing
-
-🔗 [Live Platform](https://www.nowtalktome.com)
 
 ---
 
