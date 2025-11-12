@@ -30,6 +30,7 @@ Currently building microservices and real-time systems at **UnifiedBeez (London)
 - Converted desktop charting features to web for market trend analysis
 - Built complex data visualization components for financial trading
 
+![Vapzer Dashboard](./assets/vapzer-screenshot.png)
 🔗 [Live Demo](https://webappfrontend-1.onrender.com/)
 
 ---
