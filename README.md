@@ -11,51 +11,69 @@ Currently building microservices and real-time systems at **UnifiedBeez (London)
 
 ## 🚀 Featured Projects
 
+### [Urunner](https://www.urunner.io) | Fitness Tokenization Platform
+**Tech Stack:** Next.js • TypeScript • Tailwind • Python Backend
+
+- Built frontend website and admin dashboard for global fitness platform
+- Developed event management system with seamless API integration
+- Implemented responsive, mobile-first design for fitness tracking features
+
+🔗 [Live Site](https://www.urunner.io)
+
+---
+
+### [Vapzer Trading Platform](https://webappfrontend-1.onrender.com/)
+**Tech Stack:** Next.js • TypeScript • Tailwind • Django • C#
+
+- Led frontend development consuming Python/Django and C# APIs
+- Converted desktop charting features to web for market trend analysis
+- Built complex data visualization components for financial trading
+
+🔗 [Live Demo](https://webappfrontend-1.onrender.com/)
+
+---
+
+### [EchoNota](https://echonota.vercel.app/) | Podcast Transcription Platform
+**Tech Stack:** Next.js • TypeScript • Audio Processing
+
+- Contributed to voice transcription web application (Avaris AS)
+- Implemented UI/UX improvements for transcription preview
+- Optimized layout and user flow for audio content management
+
+🔗 [Live App](https://echonota.vercel.app/)
+
+---
+
+### [VisualTrade](https://visualtrade.vercel.app/) | Trading Analytics
+**Tech Stack:** React • TypeScript • Data Visualization
+
+- Built trading analytics dashboard with real-time data visualization
+- Implemented interactive charts and market analysis tools
+- Designed responsive interface for financial data presentation
+
+🔗 [Live Demo](https://visualtrade.vercel.app/)
+
+---
+
 ### [NowTalkToMe](https://www.nowtalktome.com) | Real-Time Chat Platform
 **Tech Stack:** NestJs • TypeScript • Socket.io • MySQL • React • Stripe
 
 - Led 6-person team building encrypted chat platform with **1K+ concurrent sessions**
-- Built admin dashboard with live monitoring and dynamic staff assignment algorithms
-- Integrated payment processing managing **$50K+ monthly transactions**
+- Built admin dashboard with live monitoring and dynamic staff assignment
+- Integrated Stripe payment processing (**$50K+ monthly transactions**)
 - Implemented WebSocket microservices with automated load balancing
 
-🔗 [Live Demo](https://www.nowtalktome.com) | 🔒 *Private repo*
+🔗 [Live Platform](https://www.nowtalktome.com)
 
 ---
 
-### [Trium Digital](https://coronation.ng) | Investment Platform
-**Tech Stack:** Next.js • TypeScript • GraphQL • MongoDB • Laravel
+### Additional Client Projects
 
-- Built investment platform features for West African market
-- Implemented automatic form-filling for returning users
-- Enhanced international pricing system through backend collaboration
-- Optimized data collection components for improved UX
-
-🔗 [Live Site](https://coronation.ng) | 🔒 *Enterprise codebase*
-
----
-
-### BetterDrive | Ride-Hailing Platform
-**Tech Stack:** Node.js • MySQL • AWS (EC2, RDS, Lambda, S3) • GCP • Google Maps API
-
-- Architected backend supporting **5K+ daily ride requests**
-- Built real-time driver-matching with geospatial indexing (**40% faster pairing**)
-- Led zero-downtime migration to AWS RDS with Redis caching (**60% load reduction**)
-- Integrated Google Maps API with proximity-based algorithms
-
-🔒 *Private repo*
-
----
-
-### AI-Powered Messaging System | UnifiedBeez
-**Tech Stack:** NestJs • TypeScript • Pinecone • OpenAI API • DistilBERT • MongoDB
-
-- Built RAG system with vector embeddings for context-aware AI assistants
-- Implemented ML-powered chat analysis with **92% accuracy** using fine-tuned DistilBERT
-- Architected event-driven automation for sales lead routing
-- Processed **10K+ daily messages** across unified channels
-
-🔒 *Proprietary system - Technical details available*
+**[Viewpoint HMS](https://vphms.viewpointhms.com/)** - Healthcare Management System  (React.js • Tailwind • Typescript)
+**[SageDSL](https://sagedsl.com/)** - Portforlio Website  (React.js • Tailwind • Typescript)
+**[Attijarang](https://attijarang.com/)** - Portfolio Website  (React.js • Tailwind • Typescript)
+**[PAC Research](https://pacresearch.org/)** - Research Organization Portal  (React.js • Tailwind • Typescript)
+**[Trium Digital](https://coronation.ng)** - Investment Platform (Next.js • GraphQL • MongoDB)
 
 ---
 
@@ -112,7 +130,7 @@ Currently building microservices and real-time systems at **UnifiedBeez (London)
 ## 📫 Let's Connect
 
 - **Email:** igbagboleye@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/igbagbo-olaleye]
+- **LinkedIn:** [your-linkedin-url]
 - **Location:** Abuja, Nigeria (Open to relocation)
 - **Phone:** +234 706 119 6917
 
